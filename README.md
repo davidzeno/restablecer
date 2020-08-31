@@ -23,4 +23,4 @@ Desde la opción "Restablecer" seleccione la opción "Restablecer datos de fábr
 
 ## PASO 6
 Desde la opción "Restablecer datos de fábrica" presione el botón "Reiniciar Teléfono".
-![](https://davidzeno.github.io/restablecer/resetphone.tpng)
+![](https://davidzeno.github.io/restablecer/resetphone.png)
